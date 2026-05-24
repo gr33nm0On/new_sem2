@@ -1,0 +1,17 @@
+[
+  {
+    "id": 5,
+    "name": "logitech mx master",
+    "cat": "Accessories"
+  },
+  {
+    "id": 6,
+    "name": "samsung s24",
+    "cat": "Smartphones"
+  },
+  {
+    "id": 7,
+    "name": "lenovo legion",
+    "cat": "Laptops"
+  }
+]
