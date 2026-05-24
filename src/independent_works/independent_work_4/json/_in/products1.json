@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "iphone 10",
+    "cat": "smartphones"
+  },
+  {
+    "id": 2,
+    "name": "macbook pro",
+    "cat": "laptops"
+  },
+  {
+    "id": 1,
+    "name": "iphone 10",
+    "cat": "Smartphones"
+  }
+]
